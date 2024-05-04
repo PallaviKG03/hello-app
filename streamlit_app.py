@@ -1,2 +1,2 @@
 import streamlit as st
-st.write('Hello world')
+st.write('Heyyyyy my first app deployed on streamlit')
